@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Happiness/FaceView.swift"
+            timestampString = "468573700.514477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "FaceView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.lineWidth.didset : CoreGraphics.CGFloat"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.117281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.lineWidth.materializeForSet : CoreGraphics.CGFloat"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.118314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.init (Happiness.FaceView.Type)(frame : C.CGRect) -&gt; Happiness.FaceView"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.118479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.init (Happiness.FaceView.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;Happiness.FaceView&gt;"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.118706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Happiness/FaceView.swift"
+            timestampString = "468573700.514477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Happiness/FaceView.swift"
+            timestampString = "468572925.99221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.__deallocating_deinit"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.994808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.init (Happiness.FaceView.Type)(frame : C.CGRect) -&gt; Happiness.FaceView"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.99501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.init (Happiness.FaceView.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;Happiness.FaceView&gt;"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468572925.995166"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Happiness/FaceView.swift"
+            timestampString = "468573700.514477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "FaceView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_E434996540128A4C284E21C46C585945_func0"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468573059.764713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Happiness.FaceView.(Scaling in _E434996540128A4C284E21C46C585945).FaceRadiusToEyeRadiusRatio.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  moduleName = "Happiness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niqbal/otherdev/swift/Happiness/Happiness/FaceView.swift"
+                  timestampString = "468573059.764905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Happiness/HappinessViewController.swift"
+            timestampString = "468575060.504574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "HappinessViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
